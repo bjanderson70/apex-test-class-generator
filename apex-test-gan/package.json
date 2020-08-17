@@ -1,7 +1,7 @@
 {
   "name": "apex-test-class-generator",
-  "displayName": "Salesforce Auto Test Class Generator",
-  "description": "Salesforce Auto Test Class Generator for Visual Studio Code",
+  "displayName": "Apex Auto Test Class Generator",
+  "description": "Apex Auto Test Class Generator for Visual Studio Code",
   "version": "1.0.0",
   "publisher": "Nik-Creation",
   "icon": "logo.png",
